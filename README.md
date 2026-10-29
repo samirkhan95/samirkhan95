@@ -11,5 +11,5 @@
 <p align="center">
   <a href="https://samirkhan.framer.website/"><img src="https://img.shields.io/badge/PORTFOLIO-0088cc?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/samirkhan95/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:samirkhan11881@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samirkhan11881@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
